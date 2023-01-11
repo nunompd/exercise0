@@ -1,3 +1,12 @@
-# exercise0
+# Exercise 0
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-qythj8)
+- General and fundamental concepts covering:
+
+  - Object comparison
+  - Problem solving
+  - Object comparison operators
+  - Scopes
+  - RXJS operators
+  - Observables
+  - Promises
+  - ...
